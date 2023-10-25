@@ -2,7 +2,7 @@
 {
     internal class Program
     {
-        static void Main(string[] args)
+        public void Types()
         {   // simple data types
             // Number types
             // 1 byte
