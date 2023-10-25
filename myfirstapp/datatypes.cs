@@ -1,8 +1,4 @@
-﻿using System;
-using System.ComponentModel;
-using System.Reflection.Metadata;
-
-namespace netfoundations
+﻿namespace netfoundations
 {
     internal class Program
     {
